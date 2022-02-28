@@ -72,6 +72,16 @@ options("repos" = c(CRAN="<https://mirrors.tuna.tsinghua.edu.cn/CRAN/>")) 打开
 | args(log) | get how to working with function log |
 | help("+") | get help around + |
 | - + Inf | 负无穷，正无穷 |
+| seq(1, n) | create a sequene from 1 to n and sum |
+| str()| Next, use the function str to examine the structure of the murders object. We can see that this object is a data frame with 51 rows and five columns. |
+|names()| For this question, we will use the names() function to extract the column names of the murders data frame. |
+| class() | every variable has a class in R language |
+|p <- murders$population | o <- murders[["population"]] |
+| identical(o, p)| Then use the identical function to determine if a and b are the same.|
+| length(levels(murders$region)) | Use the functions levels and length to determine the number of regions defined by this dataset and contained in murders$region.|
+| table() | Use the table function in one line of code to create a table showing the number of states per region. |
+| table(murders$region) | |
+| temp <- c(35, 88, 42, 84, 81, 30) |Create a numeric vector to store the temperatures listed in the instructions into a vector named temp|
 | comments | #coments |
 
 * variable names

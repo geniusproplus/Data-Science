@@ -3,5 +3,6 @@ library(dslabs)
 data(murders)
 
 murders %>%
-  ggplot(aes(population, total, label=abb, color=region)) + # nolint
+  ggplot(aes(population, total, label=abb, color=region))  # nolint
   geom_label()
+  
