@@ -82,7 +82,13 @@ options("repos" = c(CRAN="<https://mirrors.tuna.tsinghua.edu.cn/CRAN/>")) 打开
 | table() | Use the table function in one line of code to create a table showing the number of states per region. |
 | table(murders$region) | |
 | temp <- c(35, 88, 42, 84, 81, 30) |Create a numeric vector to store the temperatures listed in the instructions into a vector named temp|
+|拼接 | cat() |
+|文件内容分写入| cat("RUNOOB", file="/Users/runoob/runoob-test/r_test.txt")|
+|追加写入|cat("GOOGLE", file="/Users/runoob/runoob-test/r_test.txt", append=TRUE)|
+|factor | it is categorical data, such as region in case of murders |
+| levels() |only for class of factor|
+| nlevels()|  may be used to determine the number of levels of a factor.|
 | comments | #coments |
-
+|基础教程| https://www.runoob.com/r/r-basic-syntax.html|
 * variable names
   

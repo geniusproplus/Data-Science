@@ -4,5 +4,5 @@ data(murders)
 
 murders %>%
   ggplot(aes(population, total, label=abb, color=region))  # nolint
-  geom_label()
+  geom_label()  # nolint
   
