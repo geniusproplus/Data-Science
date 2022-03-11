@@ -1,4 +1,4 @@
-# 🍊 一 Python 语法基础，IPython 和 Jupyter Notebooks
+# 一 Python 语法基础，IPython 和 Jupyter Notebooks
 
 
 
@@ -10,9 +10,13 @@
 * 高效的Python，Brett Slatkin著 (Pearson)
 {% endhint %}
 
-### Tab补全 <a href="#tab-bu-quan" id="tab-bu-quan"></a>
+## <mark style="color:blue;">2.2 IPython基础</mark> <a href="#22ipython-ji-chu" id="22ipython-ji-chu"></a>
 
-IPython的编译器按下tab有自动补全功能
+### 组织代码
+
+#### Python用是什么符号呈现代码的结构性、用来组织代码啊？
+
+####
 
 ### 自省 <a href="#zi-sheng" id="zi-sheng"></a>
 
@@ -20,6 +24,4 @@ IPython编译器：在变量前后使用问号？，可以显示对象的信息�
 
 {% embed url="https://www.zhihu.com/question/27699413" %}
 
-## Creating a project
-
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+##
