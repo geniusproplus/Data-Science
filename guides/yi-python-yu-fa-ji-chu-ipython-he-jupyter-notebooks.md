@@ -12,11 +12,21 @@
 
 ## <mark style="color:blue;">2.2 IPython基础</mark> <a href="#22ipython-ji-chu" id="22ipython-ji-chu"></a>
 
+{% hint style="info" %}
+首先明确：Ipython和Jupyter都不是另一门语言或者库之类的东西，是开发者基于开发出的子项目；JUPYTER可以分块执行代码，IPYTHON是一个终端，不同于Python自带的终端，它会有一些方便的操作命令，2.2就是讲的以ipynb格式在Ipython shell（Ipython终端）时的一些操作命令etc。
+{% endhint %}
+
 ### 组织代码
 
 #### Python用是什么符号呈现代码的结构性、用来组织代码啊？
 
-####
+#### Ipython shell 的自动补全功能是哪个键？
+
+#### Ipython shell中，如果你不明白哪个命令或者对象的信息，可以在结尾加什么符号，向Python寻求帮助解释？& 可以加咩符号来展现对象的源码？
+
+#### jupyter中，%run +文件名的作用是什么？
+
+
 
 ### 自省 <a href="#zi-sheng" id="zi-sheng"></a>
 
