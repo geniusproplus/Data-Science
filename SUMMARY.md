@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [一 Python 语法基础，IPython 和 Jupyter Notebooks](guides/yi-python-yu-fa-ji-chu-ipython-he-jupyter-notebooks.md)
+* [🍊 一 Python 语法基础，IPython 和 Jupyter Notebooks](guides/yi-python-yu-fa-ji-chu-ipython-he-jupyter-notebooks.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
