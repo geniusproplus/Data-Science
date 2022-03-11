@@ -8,6 +8,12 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 > \[利用 Python 进行数据分析 · 第 2 版]\([https://wizardforcel.gitbooks.io/pyda-2e/content/](https://wizardforcel.gitbooks.io/pyda-2e/content/))
 >
+>
+>
+> \[内嵌式链接]\(https://www.google.com)
+>
+>
+>
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
