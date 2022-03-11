@@ -6,18 +6,14 @@
 
 ### 资料：
 
+{% embed url="https://www.gitbook.com" %}
+gitbook官方文件
+{% endembed %}
+
 {% embed url="https://wizardforcel.gitbooks.io/pyda-2e/content" %}
 
-{% embed url="https://bookdata.readthedocs.io/en/latest/beginning/01_linux.html" %}
+{% embed url="https://bookdata.readthedocs.io/en/latest/beginning/index.html" %}
 
-> \[利用 Python 进行数据分析 · 第 2 版]\([https://wizardforcel.gitbooks.io/pyda-2e/content/](https://wizardforcel.gitbooks.io/pyda-2e/content/))
->
->
->
-> \[内嵌式链接]\(https://www.google.com)
->
->
->
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
