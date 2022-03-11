@@ -65,3 +65,15 @@ Python没有变量只有引用
 {% file src="../.gitbook/assets/python基础： 深入理解 python 中的赋值、引用、拷贝、作用域   DRA PHO.pdf" %}
 深复制，浅复制
 {% endfile %}
+
+### 属性和方法
+
+#### `a.<敲tab键>  的作用是什么？`
+
+#### `getattr(a, 'split')` 的作用是什么？
+
+
+
+### 鸭子类型
+
+#### &#x20;`iter(obj) 的作用是什么？`
