@@ -40,10 +40,28 @@
 
 #### 若想创建多个绘图窗口--需要在Ipython shell执行什么命令；若要通过Ipynb代码达到效果，则在代码中需要加什么代码？
 
-### 自省 <a href="#zi-sheng" id="zi-sheng"></a>
+## <mark style="color:blue;">2.3 Python语法基础</mark>
 
-IPython编译器：在变量前后使用问号？，可以显示对象的信息：
+### 对象模型（数据模型）
 
-{% embed url="https://www.zhihu.com/question/27699413" %}
+{% embed url="https://docs.python.org/zh-cn/3/reference/datamodel.html" %}
+Python中万物皆对象
+{% endembed %}
 
-##
+{% embed url="https://blog.51cto.com/u_15186953/2743997" %}
+
+#### 对象的三要素是咩？ <a href="#zi-sheng" id="zi-sheng"></a>
+
+
+
+### 变量和参数传递
+
+{% embed url="https://draapho.github.io/2016/11/21/1618-python-variable" %}
+Python没有变量只有引用
+{% endembed %}
+
+#### `isinstance(a, int)` 的作用是判断对象三要素的哪一要素的，返回什么类型的值？
+
+{% file src="../.gitbook/assets/python基础： 深入理解 python 中的赋值、引用、拷贝、作用域   DRA PHO.pdf" %}
+深复制，浅复制
+{% endfile %}
