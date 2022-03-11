@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🍊 Abstract And Forword](README.md)
+* [🍊 Abstract & Foreword](README.md)
 
 ## Guides
 
