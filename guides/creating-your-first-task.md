@@ -28,7 +28,7 @@
 
 #### 怎样使用sort()方法函数对列表进行从大到小的排列？怎样按特定的要求（比如长度排列，字母排列）用sort()方法对列表进行排列？
 
-#### 使用哪个函数可以对列表进行二分查找？什么是二分查找，使用bisect时可以查找列表以外的数据吗？
+#### 使用哪个函数可以对有序列表进行二分查找？什么是二分查找，使用bisect时可以查找列表以外的数据吗？
 
 {% embed url="https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E5%B0%8B%E6%BC%94%E7%AE%97%E6%B3%95" %}
 
@@ -37,3 +37,26 @@
 #### 切片c\[:3]代表切取对象c 上0，1，2位置的元素。--左闭右开区间
 
 ### 序列函数
+
+#### 如何用enumerate查看列表里元素的序号
+
+```
+from typing import Mapping
+
+Mapping = {}
+collection = ["foo", "bor", "that"]
+for i, value in enumerate(collection):
+    #Mapping[i] = value 这个也可以啦
+    Mapping[value] = i
+
+print(Mapping)
+```
+
+#### sorted函数：`sorted`函数可以从任意序列的元素返回一个新的排好序的列表
+
+#### `zip`可以将多个列表、元组或其它序列成对组合成一个元组列表：
+
+```python
+zipped = zip(seq1, seq2)
+```
+
