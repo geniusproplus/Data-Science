@@ -60,3 +60,8 @@ print(Mapping)
 zipped = zip(seq1, seq2)
 ```
 
+#### `reversed`可以从后向前迭代一个序列：
+
+`print(list(reversed(range(10))))`
+
+要记住`reversed`是一个生成器（后面详细介绍），只有实体化（即列表或for循环）之后才能创建翻转的序列。
