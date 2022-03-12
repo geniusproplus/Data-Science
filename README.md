@@ -24,6 +24,8 @@ useful resources to help you get started with Anaconda
 Python官方学习教程
 {% endembed %}
 
+{% embed url="https://www.numpy.org.cn/reference/arrays/ndarray.html" %}
+
 > 注意：当你使用conda和pip二者安装包时，千万不要用pip升级conda的包，这样会导致环境发生问题。当使用Anaconda或Miniconda时，最好首先使用conda进行升级。
 
 > ### 导航--利用Python进行数据分析 <a href="#16-ben-shu-dao-hang" id="16-ben-shu-dao-hang"></a>
