@@ -77,3 +77,38 @@ Python没有变量只有引用
 ### 鸭子类型
 
 #### &#x20;`iter(obj) 的作用是什么？`
+
+#### 要判断两个引用是否指向同一个对象，可以使用`is`方法。`is not`可以判断两个对象是不同的
+
+### 字符串
+
+#### `c = "string line here" , c.count(s)的作用是什么？， str()的作用是咩啊？`
+
+#### `s = 'python'，list(s)， s[:3]  ---这三行代码是在干什么？`&#x20;
+
+#### `s = r'this\has\no\special\characters'` 代码中的r是咩啊？
+
+#### 字符串的模板化---format
+
+{% embed url="https://www.runoob.com/python/att-string-format.html" %}
+
+### 字节的UTF-8编码和解码的方法函数
+
+### 时间-datatime库
+
+#### strftime和strptime方法的作用分别是什么？
+
+
+
+### 控制流
+
+#### if， elif， else
+
+#### for循环：continue在for循环中的作用是咩啊？
+
+### while循环
+
+pass， 和range
+
+### 三元表达式 <a href="#san-yuan-biao-da-shi" id="san-yuan-biao-da-shi"></a>
+
